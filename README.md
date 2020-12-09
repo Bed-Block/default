@@ -1,2 +1,2 @@
 # default
-An attempt at making an unified bedrock resources
+An attempt at making unified bedrock resources
